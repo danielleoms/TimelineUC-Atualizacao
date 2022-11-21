@@ -1,1 +1,0 @@
-Atualização de wireframes de acordo com implementação de telas desktop da funcionalidade Timeline.
